@@ -1,0 +1,1 @@
+This is where I will store code related to additional practice exercises and projects regarding the matplotlib library. This does not include any work directly assigned by Codeup or Codeacademy. 
